@@ -5,9 +5,9 @@ Im Jace Reid, I'm an electrical engineering student at the university of stellen
 <a href="https://github.com/JaceReid/JaceReid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaceReid&langs_count=3&theme=cobalt" />
 </a>
-<!-- <a href="https://github.com/JaceReid/JaceReid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaceReid&show_icons=true&theme=cobalt" alt="William's GitHub Stats" />
-</a> -->
+<a href="https://github.com/JaceReid/JaceReid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaceReid&show_icons=true&theme=cobalt" alt="Jace's GitHub Stats" />
+</a>
 
 <!--
 **JaceReid/JaceReid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
