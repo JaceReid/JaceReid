@@ -8,6 +8,9 @@ Im Jace Reid, I'm an electrical engineering student at the university of stellen
 <a href="https://github.com/JaceReid/JaceReid">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaceReid&show_icons=true&theme=cobalt" alt="Jace's GitHub Stats" />
 </a>
+<a href="https://github.com/JaceReid/DWM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaceReid&repo=DWM&theme=cobalt" />
+</a>
 
 <!--
 **JaceReid/JaceReid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
