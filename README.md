@@ -1,6 +1,6 @@
 ### Howzit! Welcome to My Profile
 Im Jace Reid, I'm an electrical engineering student at the university of stellenbosch
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/JaceReid/JaceReid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaceReid&langs_count=3&theme=cobalt" />
