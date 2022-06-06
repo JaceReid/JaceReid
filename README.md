@@ -3,10 +3,10 @@ Im Jace Reid, I'm an electrical engineering student at the university of stellen
 ## GitHub Stats
 
 <a href="https://github.com/JaceReid/JaceReid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaceReid&langs_count=3&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaceReid&langs_count=3&theme=nord" />
 </a>
 <a href="https://github.com/JaceReid/JaceReid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaceReid&show_icons=true&theme=cobalt" alt="Jace's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaceReid&show_icons=true&theme=nord" alt="Jace's GitHub Stats" />
 </a>
 <a href="https://github.com/JaceReid/DWM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaceReid&repo=DWM&theme=nord" />
