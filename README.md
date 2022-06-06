@@ -9,10 +9,10 @@ Im Jace Reid, I'm an electrical engineering student at the university of stellen
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaceReid&show_icons=true&theme=cobalt" alt="Jace's GitHub Stats" />
 </a>
 <a href="https://github.com/JaceReid/DWM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaceReid&repo=DWM&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaceReid&repo=DWM&theme=nord" />
 </a>
 <a href="https://github.com/JaceReid/BirdApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaceReid&repo=BirdApp&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaceReid&repo=BirdApp&theme=nord" />
 </a>
 
 <!--
